@@ -12,6 +12,7 @@ DESTINATION MAC address (tail).
 ![1](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image1.png)
 
 Contoh kasus ada 3 pc.
+
 ![2](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image2.png)
 
 PC 0 / 192.168.1.1
