@@ -9,43 +9,34 @@ Muhammad Rizal
 Pada data di ICMP layer 3 harus adanya SOURCE MAC address (head) dan
 DESTINATION MAC address (tail).
 
-![1](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image1.png){width="3.4588156167979003in"
-height="2.708711723534558in"}
+![1](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image1.png)
 
 Contoh kasus ada 3 pc.
-![2](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image2.png){width="6.268055555555556in"
-height="6.081944444444445in"}
+![2](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image2.png)
 
 PC 0 / 192.168.1.1
 
-![3](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image3.png){width="5.261150481189851in"
-height="1.1459930008748906in"}
+![3](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image3.png)
 
 PC 1 / 192.168.1.2
 
-![4](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image4.png){width="5.240314960629921in"
-height="1.1043208661417323in"}
+![4](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image4.png)
 
 PC 2 / 192.168.1.3
 
-![5](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image5.png){width="2.9900010936132984in"
-height="0.4375612423447069in"}
+![5](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image5.png)
 
 i.  Mengecek ARP pada PC 0
 
-![6](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image6.png){width="3.240034995625547in"
-height="2.2919860017497813in"}![7](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets.png){width="3.240034995625547in"
-height="2.229478346456693in"}
+![6](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image6.png)![7](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image7.png)
 
 ii. Broadcasting 1 (PC 0)
 
-![8](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image8.png){width="3.510906605424322in"
-height="2.229478346456693in"}
+![8](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image8.png)
 
 iii. Broadcasting 2 (PC 1)
 
-![9](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image9.png){width="3.4900699912510937in"
-height="2.4586767279090114in"}
+![9](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image9.png)
 
 iv. Pesan / Message
 
