@@ -9,7 +9,7 @@ Muhammad Rizal
 Pada data di ICMP layer 3 harus adanya SOURCE MAC address (head) dan
 DESTINATION MAC address (tail).
 
-![1](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image1.png){width="3.4588156167979003in"
+![1](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%20CISCO/assets/image1.png){width="3.4588156167979003in"
 height="2.708711723534558in"}
 
 Contoh kasus ada 3 pc.
