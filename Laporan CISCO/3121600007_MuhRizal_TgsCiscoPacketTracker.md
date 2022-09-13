@@ -9,55 +9,47 @@ Muhammad Rizal
 Pada data di ICMP layer 3 harus adanya SOURCE MAC address (head) dan
 DESTINATION MAC address (tail).
 
-![Diagram Description automatically
-generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image1.png){width="3.4588156167979003in"
+![1](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image1.png){width="3.4588156167979003in"
 height="2.708711723534558in"}
 
 Contoh kasus ada 3 pc.
-![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image2.png){width="6.268055555555556in"
+![2](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image2.png){width="6.268055555555556in"
 height="6.081944444444445in"}
 
 PC 0 / 192.168.1.1
 
-![Graphical user interface, text Description automatically
-generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image3.png){width="5.261150481189851in"
+![3](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image3.png){width="5.261150481189851in"
 height="1.1459930008748906in"}
 
 PC 1 / 192.168.1.2
 
-![Text Description automatically
-generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image4.png){width="5.240314960629921in"
+![4](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image4.png){width="5.240314960629921in"
 height="1.1043208661417323in"}
 
 PC 2 / 192.168.1.3
 
-![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image5.png){width="2.9900010936132984in"
+![5](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image5.png){width="2.9900010936132984in"
 height="0.4375612423447069in"}
 
 i.  Mengecek ARP pada PC 0
 
-![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image6.png){width="3.240034995625547in"
-height="2.2919860017497813in"}![Diagram Description automatically
-generated](vertopal_51fe8296a00943bda68a5574b55b0e98/media/image7.png){width="3.240034995625547in"
+![6](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image6.png){width="3.240034995625547in"
+height="2.2919860017497813in"}![7](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets.png){width="3.240034995625547in"
 height="2.229478346456693in"}
 
 ii. Broadcasting 1 (PC 0)
 
-![Diagram Description automatically
-generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image8.png){width="3.510906605424322in"
+![8](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image8.png){width="3.510906605424322in"
 height="2.229478346456693in"}
 
 iii. Broadcasting 2 (PC 1)
 
-![Diagram Description automatically
-generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image9.png){width="3.4900699912510937in"
+![9](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/tree/main/Laporan%20CISCO/assets/image9.png){width="3.4900699912510937in"
 height="2.4586767279090114in"}
 
 iv. Pesan / Message
 
-```{=html}
-<!-- -->
-```
+
 1.  PC 0 ke PC 1 (start awal)
 
 Ketika kita nge-ping PC 1 (192.168.1.2) dengan menggunakan PC 0
