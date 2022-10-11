@@ -52,33 +52,23 @@ Local Area Network :
 
 2) **Setting IP**
 
-![Graphical user interface, application
-
-Description automatically generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/2.png)
+![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/2.png)
 
 Pengaturan ip pada pc 0
 
-![Graphical user interface, application
-
-Description automatically generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/3.png)
+![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/3.png)
 
 Pengaturan ip pada pc 1
 
-![Graphical user interface, text, application, Word
-
-Description automatically generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/4.png)
+![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/4.png)
 
 Pengaturan ip pada router 0 port 0
 
-![Graphical user interface, text, application, Word
-
-Description automatically generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/5.png)
+![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/5.png)
 
 3) ` `Percobaan PING
 
-![A picture containing calendar
-
-Description automatically generated](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/6.png)
+![](https://github.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/blob/main/Laporan%205/6.png)
 
 Ping dapat dilakukan dari pc 0 ke pc 1.
 
