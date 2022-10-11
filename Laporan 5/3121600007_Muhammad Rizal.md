@@ -42,3 +42,46 @@ Local Area Network :
    menetapkan port pada setiap switch jaringan. Dengan Virtual Local
    Area Network dan menjalankan kabel antara keduanya.
 
+**Praktikum**
+
+1) Topologi Jaringan
+
+![](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.001.png)
+
+**Kita buat topologi jaringan seperti gambar di atas.**
+
+2) **Setting IP**
+
+![Graphical user interface, application
+
+Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.002.png)
+
+Pengaturan ip pada pc 0
+
+![Graphical user interface, application
+
+Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.002.png)
+
+Pengaturan ip pada pc 1
+
+![Graphical user interface, text, application, Word
+
+Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.003.png)
+
+Pengaturan ip pada router 0 port 0
+
+![Graphical user interface, text, application, Word
+
+Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.003.png)
+
+3) ` `Percobaan PING
+
+![A picture containing calendar
+
+Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.004.png)
+
+Ping dapat dilakukan dari pc 0 ke pc 1.
+
+
+
+
