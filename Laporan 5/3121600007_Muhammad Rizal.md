@@ -46,7 +46,7 @@ Local Area Network :
 
 1) Topologi Jaringan
 
-![](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.001.png)
+![](1.png)
 
 **Kita buat topologi jaringan seperti gambar di atas.**
 
@@ -54,31 +54,31 @@ Local Area Network :
 
 ![Graphical user interface, application
 
-Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.002.png)
+Description automatically generated](2.png)
 
 Pengaturan ip pada pc 0
 
 ![Graphical user interface, application
 
-Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.002.png)
+Description automatically generated](3.png)
 
 Pengaturan ip pada pc 1
 
 ![Graphical user interface, text, application, Word
 
-Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.003.png)
+Description automatically generated](4.png)
 
 Pengaturan ip pada router 0 port 0
 
 ![Graphical user interface, text, application, Word
 
-Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.003.png)
+Description automatically generated](5.png)
 
 3) ` `Percobaan PING
 
 ![A picture containing calendar
 
-Description automatically generated](Aspose.Words.9ff1a5cf-43a5-447b-b9bd-6c0e5c489ade.004.png)
+Description automatically generated](6.png)
 
 Ping dapat dilakukan dari pc 0 ke pc 1.
 
