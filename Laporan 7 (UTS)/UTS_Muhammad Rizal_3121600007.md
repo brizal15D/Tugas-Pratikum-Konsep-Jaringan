@@ -29,15 +29,13 @@ Setelah anda berhasil mengkonfigurasi seluruh perangkat dan terhubung satu sama 
 
 **Konfigurasi Switch0**
 
-|<p>Salinan file konfigurasi (ambil yang menurut anda penting) :</p><p>![Graphical user interface, text, application, email
-
-Description automatically generated](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%207%20(UTS)/asset/06.png)</p>|
+|<p>Salinan file konfigurasi (ambil yang menurut anda penting) :</p><p>![\](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%207%20(UTS)/asset/06.png)</p>|
 | - |
 |<p>Penjelasan :</p><p>Switch0 = Trunk</p><p>Switch menggunakan trunk sehingga dapat akses menyeluruh</p><p></p><p></p><p></p><p></p><p></p>|
 
 **Konfigurasi Switch1**
 
-|<p>Salinan file konfigurasi (ambil yang menurut anda penting) :</p><p>![](Aspose.Words.1f7c2c48-fe34-4229-a2f6-2218d6c3091f.007.png)</p>|
+|<p>Salinan file konfigurasi (ambil yang menurut anda penting) :</p><p>![](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%207%20(UTS)/asset/07.png)</p>|
 | - |
 |<p>Penjelasan :</p><p>Antar switch adalah trunk</p><p></p><p></p><p></p><p></p><p></p><p></p>|
 
