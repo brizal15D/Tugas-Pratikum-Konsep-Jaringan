@@ -8,7 +8,7 @@
 
 berikut adalah topologi VLAN yang akan saya gunakan.
 
-![topologi](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.001.png)
+![topologi](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/1.png)
 
 Konfigurasi IP yang akan digunakan sebagai berikut :
 
@@ -40,31 +40,31 @@ Konfigurasi IP yang akan digunakan sebagai berikut :
 ||fa0/10 trunk|||
 konfigursi pada switch 1 supaya dapat terhubung dengan switch 0 dan switch 2 yang terhbung juga deng router. VLAN 10 untuk admin, VLAN 20 untuk developer, dan VLAN 30 untuk Management.
 
-![switch vlan config](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.002.png)
+![switch vlan config](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/2.png)
 
 konfigurasi switch 0
 
-![config switch0 fa0/10](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.003.png)
+![config switch0 fa0/10](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/3.png)
 
 konfigurasi switch 1
 
-![config switch1 fa0/10](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.004.png)
+![config switch1 fa0/10](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/4.png)
 
-![config switch1 fa0/11](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.005.png)
+![config switch1 fa0/11](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/5.png)
 
-![config switch1 fa0/12](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.006.png)
+![config switch1 fa0/12](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/6.png)
 
 konfigurasi switch 2
 
-![config switch2 fa0/10](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.007.png)
+![config switch2 fa0/10](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/7.png)
 
 konfigurasi pada router
 
-![config router gig0/0](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.008.png)
+![config router gig0/0](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/8.png)
 
 Testing ping PC-10.4 ke PC-10.2 dan PC-10.4 ke PC30.3
 
-![ping](Aspose.Words.2e93209a-25d3-4296-9752-96a4633c523f.009.png)
+![ping](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%206/assets/9.png)
 
 Pada testing ping diatas saat PC-10.4 ke PC-10.2 sukses dilakukan karena PC-10.4 memiliki vlan yang sama dengan PC-10.2 yaitu vlan 10, sedangkan saat melakukan ping dari PC-10.4 ke PC30.3 tidak sukses karena vlan yang digunakan berbeda PC-10.4 menggunakan vlan 10 dan PC30.3 menggunakan vlan 30 sehingga ping yang dikirim tidak akan perna sampai.
 
