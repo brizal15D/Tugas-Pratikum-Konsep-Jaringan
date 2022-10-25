@@ -4,7 +4,7 @@
 
 **3121600007**
 
-**Pratikum - Dynamic Routing dengan Protocol RIPv2**
+## Pratikum - Dynamic Routing dengan Protocol RIPv2
 
 **Topologi**
 
@@ -24,6 +24,7 @@
 ||Fa0/2|192.168.5.1|
 |PC0|Fa0/0|192.168.4.2|
 |PC1|Fa0/0|192.168.5.2|
+
 **Konfigurasi Routing (RIPv2)**
 
 |**Devices**|**Network**|
