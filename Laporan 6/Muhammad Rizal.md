@@ -4,7 +4,7 @@
 
 **3121600007**
 
-**Praktikum**
+**Praktikum - VLAN**
 
 berikut adalah topologi VLAN yang akan saya gunakan.
 
