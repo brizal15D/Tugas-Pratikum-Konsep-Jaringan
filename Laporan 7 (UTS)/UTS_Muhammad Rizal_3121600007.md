@@ -29,7 +29,7 @@ Setelah anda berhasil mengkonfigurasi seluruh perangkat dan terhubung satu sama 
 
 **Konfigurasi Switch0**
 
-|<p>Salinan file konfigurasi (ambil yang menurut anda penting) :</p><p>![\](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%207%20(UTS)/asset/06.png)</p>|
+|<p>Salinan file konfigurasi (ambil yang menurut anda penting) :</p><p>![](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%207%20(UTS)/asset/06.png)</p>|
 | - |
 |<p>Penjelasan :</p><p>Switch0 = Trunk</p><p>Switch menggunakan trunk sehingga dapat akses menyeluruh</p><p></p><p></p><p></p><p></p><p></p>|
 
