@@ -8,7 +8,7 @@
 
 **1. Topologi Jaringan**
 
-![Gambar 1](Aspose.Words.717d09d6-f1e5-46bf-be06-d333781bba28.001.png)
+![Gambar 1](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%208/assets/001.png)
 
 Kita buat topologi jaringan seperti gambar di atas.
 
@@ -48,5 +48,7 @@ Kita buat topologi jaringan seperti gambar di atas.
 |192.168.4.0|255.255.255.0|192.168.3.1|
 |192.168.4.0|255.255.255.0|192.168.2.1|
 |192.168.5.0|255.255.255.0|192.168.1.1|
-![Gambar 2](Aspose.Words.717d09d6-f1e5-46bf-be06-d333781bba28.002.png) ![Gambar 3](Aspose.Words.717d09d6-f1e5-46bf-be06-d333781bba28.003.png)
+
+![Gambar 2](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%208/assets/002.png) 
+![Gambar 3](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%208/assets/003.png)
 
