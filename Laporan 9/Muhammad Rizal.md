@@ -8,7 +8,7 @@
 
 **Topologi**
 
-![Topologi](Aspose.Words.69c1e508-eb33-4828-b060-68dcb5cc1dc4.001.png)
+![Topologi](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%209/assets/001.png)
 
 **Konfigurasi IP Router**
 
@@ -38,7 +38,7 @@
 ||192.168.4.0|
 **Test 1**
 
-![Tracert](Aspose.Words.69c1e508-eb33-4828-b060-68dcb5cc1dc4.002.png)
+![Tracert](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%209/assets/002.png)
 
 Dapat dilihat jalur rute yang dilalui packet, adalah sebagai berikut :
 
@@ -49,11 +49,11 @@ Dapat dilihat jalur rute yang dilalui packet, adalah sebagai berikut :
 
 **Testing 2**
 
-![Topologi2](Aspose.Words.69c1e508-eb33-4828-b060-68dcb5cc1dc4.003.png)
+![Topologi2](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%209/assets/003.png)
 
 Topologi baru memutus hubungan langsung antara router2 dan router1.
 
-![Tracert2](Aspose.Words.69c1e508-eb33-4828-b060-68dcb5cc1dc4.004.png)
+![Tracert2](https://raw.githubusercontent.com/rizal15D/Tugas-Pratikum-Konsep-Jaringan-/main/Laporan%209/assets/004.png)
 
 Dapat dilihat jalur rute yang dilalui packet, adalah sebagai berikut :
 
